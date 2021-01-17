@@ -7,5 +7,5 @@ $ chmod +x selam.py
 $ ./selam.py
 ```
 
-Visit [samimi.site](samimi.site)
+Visit [samimi.site](https://samimi.site/)
 
