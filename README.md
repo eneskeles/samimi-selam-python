@@ -5,6 +5,7 @@ Get a greeting by running `selam.py`:
 ```python 
 $ chmod +x selam.py
 $ ./selam.py
+> iyi geceler limonumsu şeylerim
 ```
 
 Visit [samimi.site](https://samimi.site/)
