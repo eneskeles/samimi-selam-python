@@ -7,3 +7,5 @@ $ chmod +x selam.py
 $ ./selam.py
 ```
 
+Visit [samimi.site](samimi.site)
+
